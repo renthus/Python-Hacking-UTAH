@@ -14,11 +14,6 @@
 
 ## Descrição do curso 
 
-PCAP - Python Certified Associate Program - By Utah
-
-## Link para acesso ao curso
-https://lms.netacad.com/course/view.php?id=1070104
-
 ## Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:`
