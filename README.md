@@ -1,4 +1,4 @@
-# Cursos de Python Hacking da UTAH
+# Curso de Python Hacking da UTAH
 
 <p>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
@@ -16,7 +16,7 @@
 
 ## Descrição do projeto 
 
-Este repositório tem os cursos da ByLearn.
+Este repositório tem o curso de Python Hacking da Utah Treinamentos.
 
 ## Funcionalidades
 
